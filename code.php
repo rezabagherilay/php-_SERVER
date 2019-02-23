@@ -1,6 +1,5 @@
 <?php
-
-
+// sss
     $Temp = Array
         (
             $_SERVER["SERVER_SOFTWARE"] = "Apache",
